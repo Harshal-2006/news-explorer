@@ -5,7 +5,7 @@
 ### A desktop news aggregator that fetches real-time headlines from Google News across Indian states, global regions, current affairs, technology, and renewable energy.
  
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Tkinter](https://docs.python.org/3/library/tkinter.html)]()
+[![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange?logo=python&logoColor=white)]()
 [![GoogleNews](https://img.shields.io/badge/Source-Google%20News-red?logo=googlenews&logoColor=white)](https://pypi.org/project/GoogleNews/)
 [![Theme](https://img.shields.io/badge/Theme-sv--ttk-blueviolet)](https://github.com/rdbende/Sun-Valley-ttk-theme)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
