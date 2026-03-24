@@ -31,7 +31,8 @@
  
 ## 🖥️ Screenshots
  
-> _Add screenshots here after running the app_
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/10f4bd91-7af5-49bf-8f42-df70c8514241" />
+
  
 ---
  
